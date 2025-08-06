@@ -1,2 +1,12 @@
-# test-json-converter-1754478304
-Test project created by automated testing
+# Test Project
+
+This is a test project created by the JSON to Archive Converter API.
+
+## Features
+- Simple HTML structure
+- CSS styling
+- JavaScript functionality
+- Automated testing
+
+## Created
+Generated automatically during API testing.
